@@ -1,0 +1,11 @@
+C:\Users\sukru\Desktop\NEÜ\Görsel Programlama\D311 OTEL\D311 OTEL\bin\Debug\D311 OTEL.exe.config
+C:\Users\sukru\Desktop\NEÜ\Görsel Programlama\D311 OTEL\D311 OTEL\bin\Debug\D311 OTEL.exe
+C:\Users\sukru\Desktop\NEÜ\Görsel Programlama\D311 OTEL\D311 OTEL\bin\Debug\D311 OTEL.pdb
+C:\Users\sukru\Desktop\NEÜ\Görsel Programlama\D311 OTEL\D311 OTEL\obj\Debug\D311 OTEL.csproj.AssemblyReference.cache
+C:\Users\sukru\Desktop\NEÜ\Görsel Programlama\D311 OTEL\D311 OTEL\obj\Debug\D311 OTEL.csproj.SuggestedBindingRedirects.cache
+C:\Users\sukru\Desktop\NEÜ\Görsel Programlama\D311 OTEL\D311 OTEL\obj\Debug\D311_OTEL.Form1.resources
+C:\Users\sukru\Desktop\NEÜ\Görsel Programlama\D311 OTEL\D311 OTEL\obj\Debug\D311_OTEL.Properties.Resources.resources
+C:\Users\sukru\Desktop\NEÜ\Görsel Programlama\D311 OTEL\D311 OTEL\obj\Debug\D311 OTEL.csproj.GenerateResource.cache
+C:\Users\sukru\Desktop\NEÜ\Görsel Programlama\D311 OTEL\D311 OTEL\obj\Debug\D311 OTEL.csproj.CoreCompileInputs.cache
+C:\Users\sukru\Desktop\NEÜ\Görsel Programlama\D311 OTEL\D311 OTEL\obj\Debug\D311 OTEL.exe
+C:\Users\sukru\Desktop\NEÜ\Görsel Programlama\D311 OTEL\D311 OTEL\obj\Debug\D311 OTEL.pdb
